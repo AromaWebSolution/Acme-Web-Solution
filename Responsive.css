@@ -106,9 +106,13 @@
 	}
 	#footer-content1 > a{
 		width: 50%;
+		height: 55vh;
+    		line-height: 2;
 	}
 	#footer-content2 > a{
 		width: 50%;
+		height: 55vh;
+   		 line-height: 2;
 	}
 
 }
