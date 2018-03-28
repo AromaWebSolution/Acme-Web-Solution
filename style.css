@@ -67,7 +67,7 @@ a{
 		position: absolute;
 		top: 900px;
 	}
-	footer{
+	.sectionD{
 		position: absolute;
 		top: 1080px;
 		width: 100%;
@@ -117,7 +117,7 @@ a{
     	top: 1656px;
 	 	padding: 30px 26px;
 	 }
-	 footer{
+	 .sectionD{
 	 	position: relative;
 	 	top: 1680px;
 	}
