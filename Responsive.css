@@ -47,9 +47,11 @@
 	 #third-block{
 	 	    width: 97%;
 	 }
-	 #first-block{
-
-	 }
+	 #first-block{}
+	footer{
+		position: absolute;
+		top: 2545px;
+	}
 }
 @media only screen and (min-width: 992px) {
 	
@@ -113,4 +115,64 @@
    		 line-height: 2;
 	}
 
+}
+@media only screen and (min-width: 366px){
+	footer{
+		position: absolute;
+		top: 2605px;
+	}
+}
+@media only screen and (min-width: 418px){
+	footer{
+		position: absolute;
+		top: 2569px;
+	}
+}
+@media only screen and (min-width: 434px){
+	footer{
+		position: absolute;
+		top: 2545px;
+	}
+}
+@media only screen and (min-width: 480px){
+	footer{
+		position: absolute;
+		top: 2521px;
+	}
+}
+@media only screen and (min-width: 496px){
+	footer{
+		position: absolute;
+		top: 2473px;
+	}
+}
+@media only screen and (min-width: 514px){
+	footer{
+		position: absolute;
+		top: 2450px;
+	}
+}
+@media only screen and (min-width: 580px){
+	footer{
+		position: absolute;
+		top: 2426px;
+	}
+}
+@media only screen and (min-width: 600px){
+	footer{
+		position: absolute;
+		top: 2496px;
+	}
+}
+@media only screen and (min-width: 608px){
+	footer{
+		position: absolute;
+		top: 2471px;
+	}
+}
+@media only screen and (min-width: 890px){
+	footer{
+		position: absolute;
+		top: 2448px;
+	}
 }
