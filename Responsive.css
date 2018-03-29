@@ -121,10 +121,11 @@
 	}
 
 }
-@media only screen and (min-width: 350px)
+@media only screen and (min-width: 350px){
 footer {
     position: absolute;
     top: 2513px;
+}
 }
 @media only screen and (min-width: 366px){
 	footer{
