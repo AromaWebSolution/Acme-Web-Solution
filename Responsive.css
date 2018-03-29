@@ -177,6 +177,18 @@
 @media only screen and (min-width: 890px){
 	footer{
 		position: absolute;
-		top: 1390px;
+		top: 2448px;
+	}
+}
+@media only screen and (min-width: 944px){
+	footer{
+		position: absolute;
+		top: 2423px;
+	}
+}
+@media only screen and (min-width: 992px){
+	footer{
+		position: absolute;
+		top: 1370px;
 	}
 }
