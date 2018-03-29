@@ -110,10 +110,12 @@
 	}
 	#footer-content1 > a{
 		width: 50%;
+		padding: 55px 0px;
     		line-height: 2;
 	}
 	#footer-content2 > a{
 		width: 50%;
+		padding: 55px 0px;
    		 line-height: 2;
 	}
 
