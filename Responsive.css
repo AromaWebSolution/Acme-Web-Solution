@@ -115,6 +115,7 @@
 	}
 	#footer-content2 > a{
 		width: 50%;
+		height:270px;
 		padding: 55px 0px;
    		 line-height: 2;
 	}
@@ -189,6 +190,6 @@
 @media only screen and (min-width: 992px){
 	footer{
 		position: absolute;
-		top: 1370px;
+		top: 1421px;
 	}
 }
